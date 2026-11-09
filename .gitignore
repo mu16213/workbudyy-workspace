@@ -1,0 +1,17 @@
+# WorkBuddy 本地缓存与项目数据（含记忆/自动化，勿上传）
+.workbuddy/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+*.swp
+*~
